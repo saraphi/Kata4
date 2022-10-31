@@ -1,4 +1,4 @@
-package kata4;
+package files;
 
 import java.util.List;
 
